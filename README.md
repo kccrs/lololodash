@@ -1,0 +1,2 @@
+# lololodash
+NodeSchool Lodash exercises
