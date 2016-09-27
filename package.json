@@ -1,0 +1,19 @@
+{
+  "name": "lololodash",
+  "version": "1.0.0",
+  "description": "NodeSchool Lodash exercises",
+  "main": "analyze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kccrs/lololodash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kccrs/lololodash/issues"
+  },
+  "homepage": "https://github.com/kccrs/lololodash#readme"
+}
